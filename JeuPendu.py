@@ -2,6 +2,8 @@ import time
 from tkinter import *   # Importation bibliothèque graphique
 
 """ Jeu du pendu """
+def rien():
+    print("rien")
 
 def inscrire(ordre):
     """ Inscris un joueur avec  son pseudo en lui affectant un score de 0
