@@ -1,6 +1,8 @@
 import time
 from tkinter import *   # Importation bibliothèque graphique
 
+""" Jeu du pendu """
+
 def inscrire(ordre):
     """ Inscris un joueur avec  son pseudo en lui affectant un score de 0
     # Précondtion : "ordre" texte indiquant en lettre l'ordre du joueur
@@ -9,7 +11,7 @@ def inscrire(ordre):
     joueur=[pseudo,0]   # Crée la liste "joueur" contenant le pseudo saisi et le score initial de 0
     return joueur
 
-
+"""    """
 def jouer_pendu(joueur_pose,joueur_cherche):
     """ Joue au pendu avec un joueur qui pose un mot à deviner et un second qui cherche
     # Précondtion : une liste par joueur contenant son pseudo (type chr) et son score (type int)
