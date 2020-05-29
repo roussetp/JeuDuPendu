@@ -5,6 +5,9 @@ from tkinter import *   # Importation bibliothèque graphique
 def rien():
     print("rien")
 
+def rien2():
+    print("rien")
+
 def inscrire(ordre):
     """ Inscris un joueur avec  son pseudo en lui affectant un score de 0
     # Précondtion : "ordre" texte indiquant en lettre l'ordre du joueur
