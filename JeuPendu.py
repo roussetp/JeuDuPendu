@@ -1,5 +1,5 @@
 import time
-from tkinter import *   # Importation bibliothèque graphique
+from tkinter import *   # Importation bibliothèque graphique Tkinter
 
 """ Jeu du pendu """
 def rien():
