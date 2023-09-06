@@ -1,7 +1,7 @@
 import time
 from tkinter import *   # Importation bibliothèque graphique Tkinter
 
-""" Jeu du pendu """
+""" Jeu du "pendu" """
 def rien():
     print("rien")
 
