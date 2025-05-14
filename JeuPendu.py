@@ -1,4 +1,5 @@
-import time
+import time 
+
 from tkinter import *   # Importation bibliothèque graphique Tkinter
 
 """ Jeu du "pendu" """
